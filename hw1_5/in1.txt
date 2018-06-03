@@ -1,0 +1,12 @@
+/*
+    JTSK-320111
+    in1.txt
+    Yiping Deng
+    y.deng@jacobs-university.de
+*/
+2
+2
+1
+2
+3
+4
